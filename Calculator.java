@@ -18,7 +18,7 @@ public class Calculator {
             
         // Addition
         case '+':
-        result = a+b;
+        result = a + b;
         System.out.println(result);
         break;
         
